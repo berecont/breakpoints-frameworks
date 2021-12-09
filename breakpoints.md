@@ -1,7 +1,7 @@
-#Breakpoints in diversen Frameworks  
+# Breakpoints in diversen Frameworks  
 **to be continued ...**
 
-##bulma  
+## bulma  
 [bulma.io](https://bulma.io/documentation/overview/responsiveness/#breakpoints)  
 * `mobile`: up to `768px`  
 * `tablet`: from `769px`  
@@ -16,7 +16,7 @@
 * Widescreen: Between `1216px` and `1407px`  
 * FullHD: `1408px` and above  
 
-##contao-grid-bundle | euf_nutshell | Erdmann & Freunde  
+## contao-grid-bundle | euf_nutshell | Erdmann & Freunde  
 [euf_nutshell - mixins - _responsive.scss](https://github.com/erdmannfreunde/euf_nutshell/blob/master/files/nutshell/scss/mixins/_responsive.scss)  
 [contao-grid-bundle](https://github.com/erdmannfreunde/contao-grid-bundle)  
 viewport|min|max|  
@@ -35,7 +35,7 @@ media-query(screen-lg) ... ab 'lg' sichtbar
 media-query(screen-md-max) ... von 0 bis 'md' sichtbar
 media-query(screen-md,screen-md-max) ... innerhalb 'md' sichtbar
 ```
-##Bootstrap 4  
+## Bootstrap 4  
 [Responsive breakpoints](https://getbootstrap.com/docs/4.0/layout/overview/#responsive-breakpoints)
 viewport|min|max|mark  
 ---|---|---|---  
@@ -45,7 +45,7 @@ md|`768px`|`991px`|&ge;`768px`
 lg|`992px`|`1199px`|&ge;`992px`  
 xl|`1200px`|max container width `1140px`|&ge;`1200px`  
 
-##Bootstrap 5  
+## Bootstrap 5  
 [available breakpoints](https://getbootstrap.com/docs/5.0/layout/breakpoints/#available-breakpoints)
 viewport|min|max|mark  
 ---|---|---|---  
